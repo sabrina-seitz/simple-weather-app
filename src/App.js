@@ -8,8 +8,8 @@ export default function App() {
     <div className="container">
       <h1>
         <span role="img" aria-label="umbrella">
-          ☔
-        </span>{" "}
+          ☔{" "}
+        </span>
         Weather Vibes
       </h1>
       <SearchEngine />
