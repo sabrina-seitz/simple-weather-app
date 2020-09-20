@@ -16,6 +16,9 @@
   font-size: 35px;
   font-weight: 500;
   font-family: "Montserrat Subrayada", sans-serif;
+  overflow-wrap: break-word;
+  word-wrap: break-word;
+  hyphens: auto;
 }
 
 .SearchEngine img {
